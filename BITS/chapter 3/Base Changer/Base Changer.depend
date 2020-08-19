@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1548960434 source:d:\c coding\bits\chapter 3\base changer\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

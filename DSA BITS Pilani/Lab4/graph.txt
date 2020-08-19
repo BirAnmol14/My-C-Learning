@@ -1,0 +1,65 @@
+Heap Memory Used: 184
+Time taken to create list with 10 nodes: 0.000000(in ms)
+
+Time taken by Hare-Tort ALGO is: 0.000000(in ms)
+
+Time taken by Reverse Link ALGO: 0.000000(in ms)
+Final Memory: 0
+-------------------------------------------------
+Heap Memory Used: 1624
+Time taken to create list with 100 nodes: 0.000000(in ms)
+
+Time taken by Hare-Tort ALGO is: 0.000000(in ms)
+
+Time taken by Reverse Link ALGO: 0.000000(in ms)
+Final Memory: 0
+-------------------------------------------------
+Heap Memory Used: 16024
+Time taken to create list with 1000 nodes: 0.000000(in ms)
+
+Time taken by Hare-Tort ALGO is: 0.000000(in ms)
+
+Time taken by Reverse Link ALGO: 0.000000(in ms)
+Final Memory: 0
+-------------------------------------------------
+Heap Memory Used: 160024
+Time taken to create list with 10000 nodes: 0.000000(in ms)
+
+Time taken by Hare-Tort ALGO is: 0.000000(in ms)
+
+Time taken by Reverse Link ALGO: 0.000000(in ms)
+Final Memory: 0
+-------------------------------------------------
+Heap Memory Used: 1600024
+Time taken to create list with 100000 nodes: 5.000000(in ms)
+
+Time taken by Hare-Tort ALGO is: 0.000000(in ms)
+
+Time taken by Reverse Link ALGO: 1.000000(in ms)
+Final Memory: 0
+-------------------------------------------------
+Heap Memory Used: 16000024
+Time taken to create list with 1000000 nodes: 53.000000(in ms)
+
+Time taken by Hare-Tort ALGO is: 6.000000(in ms)
+
+Time taken by Reverse Link ALGO: 6.000000(in ms)
+Final Memory: 0
+-------------------------------------------------
+Heap Memory Used: 160000024
+Time taken to create list with 10000000 nodes: 511.000000(in ms)
+
+Time taken by Hare-Tort ALGO is: 38.000000(in ms)
+
+Time taken by Reverse Link ALGO: 50.000000(in ms)
+Final Memory: 0
+-------------------------------------------------
+Heap Memory Used: 1600000024
+Time taken to create list with 100000000 nodes: 5261.000000(in ms)
+
+Time taken by Hare-Tort ALGO is: 485.000000(in ms)
+
+Time taken by Reverse Link ALGO: 572.000000(in ms)
+Final Memory: 0
+-------------------------------------------------
+//This Data Shows us that both the link finding algorithms are roughly O(n)

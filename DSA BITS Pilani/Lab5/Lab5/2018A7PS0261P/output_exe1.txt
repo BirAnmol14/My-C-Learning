@@ -1,0 +1,6 @@
+Time for 10 files: 0.000000(ms)
+Time for 100 files: 0.000000(ms)
+Time for 1000 files: 0.000000(ms)
+Time for 10000 files: 5.000000(ms)
+Time for 100000 files: 53.000000(ms)
+Time for 1000000 files: 506.000000(ms)

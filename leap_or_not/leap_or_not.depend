@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1546524664 source:d:\c coding\leap_or_not\main.c
+	<stdio.h>
+	<stdlib.h>
+

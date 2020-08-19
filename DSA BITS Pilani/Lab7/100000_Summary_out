@@ -1,0 +1,6 @@
+ARRAY SIZE: 100000
+CUTOFF SIZE :89
+QUICK SORT(With Sublist Constarint=89) TIME(in ms): 21.821000
+INSERTION SORT(Entire Array after quick sort) TIME(in ms): 12.555000
+------------------------------------------------
+

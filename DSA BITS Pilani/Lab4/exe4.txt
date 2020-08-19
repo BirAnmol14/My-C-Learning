@@ -1,0 +1,4 @@
+Heap Memory Used: 16313864
+Time taken to create list with 1019615 nodes: 53.000000(in ms)
+
+Time taken by Reverse Link ALGO: 7.000000(in ms)

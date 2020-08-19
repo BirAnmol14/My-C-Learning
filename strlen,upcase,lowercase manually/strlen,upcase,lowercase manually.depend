@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1545718105 source:d:\c coding\strlen,upcase,lowercase manually\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

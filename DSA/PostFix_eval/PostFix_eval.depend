@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1577452793 source:d:\c coding\dsa\postfix_eval\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

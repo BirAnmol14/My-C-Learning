@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1577033250 source:d:\c coding\dsa\linkedlist\linkedlist_demo\main.c
+	<stdio.h>
+	<stdlib.h>
+

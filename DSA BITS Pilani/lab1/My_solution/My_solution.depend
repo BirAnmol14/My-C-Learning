@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1255202143 source:e:\dsa\lab1\question\compare_at.c
+	"storage.h"
+	"compare.h"
+
+1255202143 e:\dsa\lab1\question\storage.h
+	"job.h"
+
+1255202143 e:\dsa\lab1\question\job.h
+
+1255202143 e:\dsa\lab1\question\compare.h
+
+1255202143 source:e:\dsa\lab1\question\compare_et.c
+	"storage.h"
+	"compare.h"
+
+1578494285 source:e:\dsa\lab1\question\main.c
+	<stdio.h>
+	"seqListOps.h"
+
+1255202143 e:\dsa\lab1\question\seqlistops.h
+	"storage.h"
+
+1578501422 source:e:\dsa\lab1\question\seqlistops.c
+	<stdio.h>
+	"storage.h"
+	"compare.h"
+
+1578503794 source:e:\dsa\lab1\my_solution\compare_at.c
+	"storage.h"
+	"compare.h"
+
+1255202143 e:\dsa\lab1\my_solution\storage.h
+	"job.h"
+
+1255202143 e:\dsa\lab1\my_solution\job.h
+
+1255202143 e:\dsa\lab1\my_solution\compare.h
+
+1578503863 source:e:\dsa\lab1\my_solution\main.c
+	<stdio.h>
+	"seqListOps.h"
+
+1255202143 e:\dsa\lab1\my_solution\seqlistops.h
+	"storage.h"
+
+1578505257 source:e:\dsa\lab1\my_solution\seqlistops.c
+	<stdio.h>
+	"storage.h"
+	"compare.h"
+
+1255202143 source:e:\dsa\lab1\my_solution\compare_et.c
+	"storage.h"
+	"compare.h"
+

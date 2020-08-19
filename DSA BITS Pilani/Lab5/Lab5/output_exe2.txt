@@ -1,0 +1,5 @@
+Time for sorting file with 10 records: 0.000000(ms)
+Time for sorting file with 100 records: 0.000000(ms)
+Time for sorting file with 1,000 records: 2.000000(ms)
+Time for sorting file with 10,000 records: 208.000000(ms)
+Time for sorting file with 1,00,000 records: 24814.000000(ms)

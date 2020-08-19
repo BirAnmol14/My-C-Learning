@@ -1,0 +1,43 @@
+Working on file with 1024 inputs
+Time to read: 19.000000(ms)
+Stack space used: 264
+Time to sort 102 elements: 0.000000(ms)
+Stack space used: 264
+Time to sort 113 elements: 0.000000(ms)
+Stack space used: 264
+Time to sort 128 elements: 0.000000(ms)
+Stack space used: 264
+Time to sort 146 elements: 0.000000(ms)
+Stack space used: 264
+Time to sort 170 elements: 0.000000(ms)
+Stack space used: 264
+Time to sort 204 elements: 0.000000(ms)
+Stack space used: 264
+Time to sort 256 elements: 0.000000(ms)
+Stack space used: 264
+Time to sort 341 elements: 0.000000(ms)
+Stack space used: 264
+Time to sort 512 elements: 0.000000(ms)
+Stack space used: 264
+Time to sort 1024 elements: 0.000000(ms)
+
+Working on file with 10240 inputs
+Time to read: 4.000000(ms)
+Stack space used: 264
+Time to sort 2048 elements: 0.000000(ms)
+Stack space used: 264
+Time to sort 3072 elements: 0.000000(ms)
+Stack space used: 264
+Time to sort 4096 elements: 0.000000(ms)
+Stack space used: 264
+Time to sort 5120 elements: 1.000000(ms)
+Stack space used: 264
+Time to sort 6144 elements: 1.000000(ms)
+Stack space used: 264
+Time to sort 7168 elements: 1.000000(ms)
+Stack space used: 264
+Time to sort 8192 elements: 1.000000(ms)
+Stack space used: 264
+Time to sort 9216 elements: 1.000000(ms)
+Stack space used: 264
+Time to sort 10240 elements: 1.000000(ms)

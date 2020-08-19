@@ -1,0 +1,15 @@
+Time for sorting file with 10 records: 0.000000(ms)
+Size of heap for 10 records: 82
+
+Time for sorting file with 100 records: 0.000000(ms)
+Size of heap for 100 records: 802
+
+Time for sorting file with 1,000 records: 2.000000(ms)
+Size of heap for 1,000 records: 8002
+
+Time for sorting file with 10,000 records: 208.000000(ms)
+Size of heap for 10,000 records: 80002
+
+Time for sorting file with 1,00,000 records: 24814.000000(ms)
+Size of heap for 1,00,000 records: 800002
+

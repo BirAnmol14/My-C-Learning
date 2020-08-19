@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1555605846 source:d:\c coding\bits\airplane_traffic\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
